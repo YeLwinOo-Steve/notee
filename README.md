@@ -80,8 +80,6 @@
 <img src="images/log_in.jpg" width="200" height="400"> <img src="images/register.jpg" width="200" height="400"> <img src="images/profile_page.jpg" width="200" height="400"> <img src="images/profile_page_dark.jpg" width="200" height="400"> <img src="images/account.jpg" width="200" height="400"> <img src="images/privacy_policy.jpg" width="200" height="400"> <img src="images/about_me.jpg" width="200" height="400"> 
 
 
-### App Overview
-
 
 
 
